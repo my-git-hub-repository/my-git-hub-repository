@@ -74,11 +74,14 @@
 
 <p align="center">
 
-<a href="https://github.com/my-project-repos">
+<a href="https://www.instagram.com/harshini__11">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=Whatsapp" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
