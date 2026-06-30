@@ -74,11 +74,11 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/harshini__11">
+<a href="https://www.instagram.com/harshini__11"> ### Instagram
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://github.com/my-git-hub-repository">### Git Hub
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
