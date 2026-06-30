@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Git Hub Repositor
+# My Git Hub Repository
 ### 🚀 DevOps Engineer • ☁️ Multi-Cloud Enthusiast • 🐳 Kubernetes Explorer
 
 </div>
