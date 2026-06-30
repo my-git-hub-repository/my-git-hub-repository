@@ -77,8 +77,7 @@
 <a href="https://www.instagram.com/harshini__11">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-
+<p align="center">
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
