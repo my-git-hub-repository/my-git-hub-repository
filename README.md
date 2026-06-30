@@ -75,13 +75,10 @@
 <p align="center">
 
 <a href="https://github.com/my-project-repos">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=Whatsapp" />
 </a>
 
 </p>
