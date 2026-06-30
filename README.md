@@ -78,7 +78,6 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=github" />
